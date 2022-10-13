@@ -41,5 +41,16 @@ My role was the following:
 ![Contract Action Recommendation Slide](https://user-images.githubusercontent.com/71853253/195654192-cb741544-9a86-4f03-85c0-998d8717b1c4.PNG)
 
 
+### Logistics Market Overview
+![Logistics Market Research Summary](https://user-images.githubusercontent.com/71853253/195661401-40423b77-0175-426e-9b1c-bb1758eaf8b9.PNG)
+
+### DHL Financial Overview
+![DHL Financial Overview](https://user-images.githubusercontent.com/71853253/195661501-d5cb8132-6497-45bb-9caa-b6a1f398509e.PNG)
+
+### DHL Business Overview
+![DHL Business Overview](https://user-images.githubusercontent.com/71853253/195661536-3433df70-6c37-47d5-ab38-32e55b31bc3f.PNG)
+
+
+
 
 
