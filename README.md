@@ -26,7 +26,7 @@ There were 3 main higlights in my role:
   - Included additional information on relationship history (notable projects and performance), stakeholder maps (who to engage and who to escalate to), and alternative qualified suppliers who can serve in case negotiations didn’t progress
   
 - **Built playbook to address client’s most difficult logistics negotiation**
-  -  Included analysis of supplier's contracts (24), recommended action to be taken on each contract (assignment, propose TSA, or consider shifting to alternative supplier), and additional actions to be taken to accelerate action (remove from ongoing and future bids)
+  -  Included analysis of supplier's contracts ($110 mn across 24 contracts), recommended action to be taken on each contract (assignment, propose TSA, or consider shifting to alternative supplier), and additional actions to be taken to accelerate action (remove from ongoing and future bids)
 
 
 ### PMO Tracker
