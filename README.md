@@ -1,9 +1,9 @@
 # Procurement Planning - Divestiture
-This document serves to summarize the project scope and output from my work with a client undergoing a divestitture.  We were engaged to help with the overall procurement separation effort. 
+This document serves to summarize the project scope and output from my work with a client undergoing a divestitture.  We were engaged by a global healthcare comapny to help with the overall procurement separation effort. 
 
 
 ## Project Scope
-Our client is divesting one of its businesses, and we were engaged to help with the procurement planning for both future companies.  We approached the supplier base ($33 bn in annual spend) to ensure business continuity for both future companies.  This situation presented an opportunity for suppliers to revisit their existing contracts, so the biggest challenge was to minimize cost increases through negotiations.
+Our client is divesting one of its businesses, and we were engaged to help with the procurement planning for both future companies.  We approached the supplier base ($33 bn in annual spend across business services, IT, direct materials, logistics and R&D) to ensure business continuity for both future companies.  This situation presented an opportunity for suppliers to revisit their existing contracts, so the biggest challenge was to minimize cost increases through negotiations.
 
 
 ## Collaboration & Personnel Involved
@@ -11,12 +11,12 @@ I collaborated with multiple personnel across the scope of my work including:
 
 - **Client Category Lead** – Met biweekly to align on approach (relevant suppliers, timing of outreach, negotiation asks) and for status updates
 - **Legal Team** – Met periodically with legal team for clarity on legal documents and contract language (assignment, termination for convenience)
-- **Client Procurement leadership** – Reported monthly status updates and escalated issues around key supplier relationships to this group
+- **Client Procurement Leadership** – Reported monthly status updates and escalated issues around key supplier relationships to this group
 
 ## Project Highlights
-My role was the following: 
+There were 3 main higlights in my role: 
 
-- **Own End to End Analysis for Logistics Workstream**
+- **Owned End to End Analysis for Logistics Workstream**
   - Analysis of external spend to logistics suppliers, detailed analysis of ~50 contracts (pulling key terms to inform “dis-synergy” calculations), and bottom-up modeling of dis-synergies based on individual contracts and mode-level assumptions
     - If a contract stated that there was an account manager from the client side, it would be assumed that the new entity would require its own account manager, and the incremental cost increase was calculated
     - If a contract had a cap on the rate increase that can be proposed from a supplier during a review, that informed the risk that was calculated
